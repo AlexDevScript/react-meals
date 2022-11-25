@@ -1,0 +1,17 @@
+export const Colors = {
+    primary: "#fde7ea",
+    secondary: "#fdefda",
+    tertiary: "#ffc2c2",
+    fourth: "#ffd7a8",
+    primaryModal: "#BF505A",
+    primaryModal30: "#BF505A30",
+    whiteModal65: "#ffffff85",
+    black: "#000",
+    black55: "#00000055",
+    black75: "#00000075",
+    black95: "#00000095",
+    redAlert: "#ed1c24",
+    pink: "#FF6B7F",
+    white: "#fff",
+    white05: "#ffffff50",
+}
